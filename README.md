@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/109727844/210151666-ad89db12-3a27-4991
 
 ⚡ Be sure to turn on your VPN to view users' images
 
-- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Orange-Admin-P/#/anel](https://pouria-farahani-developer.github.io/antDesignTech)
+- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/antDesignTech)
 
 - 📤 You can download the project file In [master's Branch](https://github.com/Pouria-Farahani-developer/Orange-Admin-Panel/tree/master)
 
