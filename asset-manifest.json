@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/antDesignTech/static/css/main.46701e3e.css",
+    "main.js": "/antDesignTech/static/js/main.b7284609.js",
+    "static/media/bg-hero.jpg": "/antDesignTech/static/media/bg-hero.2e6d5a35d22cda1a0dd8.jpg",
+    "static/media/bg-works.jpg": "/antDesignTech/static/media/bg-works.abd66d06d525eadfd24a.jpg",
+    "static/media/easy-customise.jpg": "/antDesignTech/static/media/easy-customise.d4fe22138e1668906aab.jpg",
+    "static/media/great-support.jpg": "/antDesignTech/static/media/great-support.13341f4e93333e45ebbe.jpg",
+    "static/media/advanced-option.jpg": "/antDesignTech/static/media/advanced-option.84c7d0693123632c9035.jpg",
+    "static/media/modern-design.jpg": "/antDesignTech/static/media/modern-design.e2114f5b8abbe8b1fa8b.jpg",
+    "static/media/clean-design.jpg": "/antDesignTech/static/media/clean-design.728069dab437b67d9da8.jpg",
+    "static/media/unlimited-features.jpg": "/antDesignTech/static/media/unlimited-features.a0b8acf77e6b57772078.jpg",
+    "index.html": "/antDesignTech/index.html",
+    "main.46701e3e.css.map": "/antDesignTech/static/css/main.46701e3e.css.map",
+    "main.b7284609.js.map": "/antDesignTech/static/js/main.b7284609.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46701e3e.css",
+    "static/js/main.b7284609.js"
+  ]
+}
