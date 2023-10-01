@@ -1,6 +1,6 @@
 # AntDesignTech
 
-💵 **From now on , you can entrust me with the accounts of your online store**
+💵 **If you want to be the first in the technology industry, why don't you use my template**
 <!-- <p>&nbsp;</p>
 <h3 align="center"> ☃ Help view the site </h3>
 
