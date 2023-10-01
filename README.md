@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/109727844/210151666-ad89db12-3a27-4991
 
 - 🤖 Technologies Used - Html , css , js , React.js 
 
-- 🚧 Hooks & Package Used : useState , useEffect , antDesign
+- 🚧 Package Used : antDesign
 
 - 🕵🏻‍♀️ Role - Frontend
 
